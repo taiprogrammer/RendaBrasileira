@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Renda Brasileira</string>
+    <string name="input_monthly_income">Renda mensal da sua família</string>
+    <string name="input_user_name">Nome</string>
+    <string name="button_social_class">Classe social</string>
+    <string name="version_app">Versão 0.0.1</string>
+    <string name="title_toolbar_social_class">Classe social</string>
+    <string name="text_result">Olá %1$s, sua família está na classe social %2$s</string>
+</resources>
